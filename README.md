@@ -4,9 +4,9 @@
 - myself to achieve my goals. I'm actively seeking work opportunities for positions
 - related to my field of study. I am a goal-oriented team worker with skills developed
 - in critical thinking, problem solving, and constructive communication.
-- I also have experience with Microsoft 365, Visual Studio, and C++.
+- Profiency in C++, Javascript, and SQL.
 - Excited to begin collaborating with your team and developing newer, faster, solutions for the world, together.
-- 🌱 I’m currently learning C++ and Full-Stack Development
+- 🌱 I’m currently learning Full-Stack Development
 - 💞️ I’m looking to collaborate on anything! Always interested to help and learn.
 - 📫 Best way to reach me is by email: jessehart001@gmail.com
 - 😄 Pronouns: He/Him
